@@ -1,0 +1,7 @@
+GrandStrandSystems/API/App.class
+contactService/Contact.class
+appointmentService/Appointment.class
+contactService/ContactService.class
+appointmentService/AppointmentService.class
+taskService/Task.class
+taskService/TaskService.class
